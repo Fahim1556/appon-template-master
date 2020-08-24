@@ -1,0 +1,798 @@
+@media (max-width: 575.98px) {
+    
+    .full_nav {
+        padding: 20px 0;
+    }
+
+    
+   .full-nav .navbar-toggler {
+        background-color: #744fa0;
+
+    }
+    .navbar-toggler{
+        background-color: #fff;
+    }
+
+     .full-nav img {
+        width: 150px;
+    }
+     .full-nav .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .full_nav .navbar-nav .active > .nav-link{
+        width: 33%
+    }
+
+
+    .navbar-light .navbar-brand {
+        padding-left: 15px;
+    }
+
+    /* nave css end*/
+    
+    .banner_contant h1 {
+        font-size: 40px
+    }
+
+    .banner_contant h1 span {
+        font-size: 40px
+    }
+
+    .banner_contant h3 {
+        font-size: 18px;
+    }
+
+    .banner_contant p {
+        font-size: 13px;
+    }
+
+    .banner_contant::before {
+        height: 1px;
+        width: 65%;
+        top: 25%
+    }
+
+
+    .home_btn {
+        display: none
+    }
+
+    .banner_btn a {
+        margin-bottom: 10px;
+        padding: 5px 15px
+    }
+
+    .banner_btn .button_2 {
+        padding: 5px 20px
+    }
+
+
+    .slick-dots {
+        top: 90%;
+        right: 0;
+        left: 34%;
+
+    }
+
+    .slick-dots li {
+        display: inline-block;
+        margin: 5px;
+    }
+
+    /* banner css end*/
+
+    .about_contant {
+        padding: 30px 0;
+    }
+
+    .about_contant p {
+        width: 100%;
+    }
+
+    .about_img {
+        padding: 20px 0;
+    }
+
+    /* about css end*/
+
+    .our_contant h3 {
+        font-size: 20px;
+    }
+
+    .nav-pills .nav-link p {
+        display: none;
+    }
+
+    .nav-pills .nav-link::before {
+        display: none
+    }
+
+    .nav-pills .nav-link {
+        padding: 0 5px;
+    }
+
+
+    .nav-pills {
+        flex-direction: row !important;
+        justify-content: center;
+
+    }
+    .nav-pills .nav-link i {
+        font-size: 32px
+    }
+    .oaf_img{
+         padding: 40px 0 0;
+    }
+    .ftr_contant h3, p{
+        text-align: center !important;
+    }
+
+
+    /* our css end*/
+
+    .scr_contant {
+        padding-top: 50px;
+    }
+
+    .slick_sceen {
+        text-align: center
+    }
+
+    .slick-slide img {
+        display: inline-block;
+    }
+
+    /* our css end*/
+
+    .video_contant {
+        padding-bottom: 50px 0;
+    }
+
+    .watch_img {
+        padding: 100px 0
+    }
+
+    /* watch css end*/
+
+    #full_plan {
+        padding: 50px 0;
+    }
+
+    .plan_table {
+        margin-bottom: 40px
+    }
+
+    .plan_btn {
+        margin-bottom: 37px;
+    }
+
+    /* plan css end*/
+
+      .team_slick .slick-dots {
+        position: static;
+        text-align: center;
+    }
+
+    .team_slick .slick-dots li {
+        display: inline-block;
+        margin: 40px 5px 0 5px;
+    }
+
+    .team_slick .slick-dots li button {
+        border-color: black;
+    }
+    .team_slick .slick-track {
+    padding-bottom: 90px
+}
+    .team_member{
+        margin: 30px 0
+    }
+
+    /* team css end*/
+    
+     .slide-for-fbtxt::before{
+        top: 106%;
+    }
+     /*end of feedback*/
+    
+    .touch_form{
+        padding: 0 10px;
+    }
+
+
+    .futtar_text p {
+        font-size: 13px;
+    }
+    
+    
+
+}
+
+
+@media (min-width: 576px) and (max-width: 767.98px) {
+    
+    .full_nav {
+        padding: 20px 0;
+    }
+
+    
+   .full-nav .navbar-toggler {
+        background-color: #744fa0;
+
+    }
+    .navbar-toggler{
+        background-color: #fff;
+    }
+
+     .full-nav img {
+        width: 150px;
+    }
+     .full-nav .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .full_nav .navbar-nav .active > .nav-link{
+        width: 33%
+    }
+
+
+    .navbar-light .navbar-brand {
+        padding-left: 15px;
+    }
+
+    /* navbar css end*/
+    
+    .banner_contant h1 {
+        font-size: 40px
+    }
+
+    .banner_contant h1 span {
+        font-size: 40px
+    }
+
+    .banner_contant h3 {
+        font-size: 26px;
+    }
+
+    .banner_contant p {
+        font-size: 14px;
+         padding-bottom: 0 !important;
+        text-align: right !important;
+    }
+
+    .banner_contant::before {
+        height: 1px;
+        width: 45%;
+        top: 35%
+    }
+
+
+    .home_btn {
+        display: none
+    }
+
+    .banner_btn a {
+        margin-bottom: 10px;
+        padding: 5px 15px
+    }
+
+    .banner_btn .button_2 {
+        padding: 5px 20px
+    }
+
+
+    .slick-dots {
+        top: 90%;
+        right: 0;
+        left: 34%;
+
+    }
+
+    .slick-dots li {
+        display: inline-block;
+        margin: 5px;
+    }
+
+    /* banner css end*/
+
+    .about_contant {
+        padding: 30px 0;
+    }
+
+    .about_contant p {
+        width: 100%;
+    }
+
+    .about_img {
+        padding: 20px 0;
+    }
+
+    /* about css end*/
+
+    .our_contant h3 {
+        font-size: 20px;
+    }
+
+    .nav-pills .nav-link p {
+        display: none;
+    }
+
+    .nav-pills .nav-link::before {
+        display: none
+    }
+
+    .nav-pills .nav-link {
+        padding: 0 5px;
+    }
+
+
+    .nav-pills {
+        flex-direction: row !important;
+        justify-content: center;
+
+    }
+    .nav-pills .nav-link i {
+        font-size: 37px;
+        margin-right: 10px
+    }
+    .oaf_img{
+         padding-top: 50px;
+        margin: auto
+    }
+    .ftr_contant h3, p{
+        text-align: center !important;
+    }
+
+
+    /* our css end*/
+
+    .scr_contant {
+        padding-top: 50px;
+    }
+
+    .slick_sceen {
+        text-align: center
+    }
+
+    .slick-slide img {
+        display: inline-block;
+    }
+
+    /* our css end*/
+
+    .video_contant {
+        padding-bottom: 50px 0;
+    }
+
+    .watch_img {
+        padding: 100px 0
+    }
+
+    /* watch css end*/
+
+    #full_plan {
+        padding: 50px 0;
+    }
+
+    .plan_table {
+        margin-bottom: 40px
+    }
+
+    .plan_btn {
+        margin-bottom: 37px;
+    }
+
+    /* plan css end*/
+
+      .team_slick .slick-dots {
+        position: static;
+        text-align: center;
+    }
+
+    .team_slick .slick-dots li {
+        display: inline-block;
+        margin: 40px 5px 0 5px;
+    }
+
+    .team_slick .slick-dots li button {
+        border-color: black;
+    }
+    .team_slick .slick-track {
+    padding-bottom: 90px
+}
+    .team_member{
+        margin: 40px 0
+    }
+
+    /* team css end*/
+    .slide-for-fbtxt:before {
+        top: 109%;
+    }
+    /*end of feedback*/
+
+    .touch_form{
+        padding: 0 10px;
+    }
+
+
+    .futtar_text p {
+        font-size: 13px;
+    }
+
+}
+
+
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+      .full_nav {
+        padding: 20px 0;
+    }
+
+    
+   .full-nav .navbar-toggler {
+        background-color: #744fa0;
+
+    }
+    .navbar-toggler{
+        background-color: #fff;
+    }
+
+     .full-nav img {
+        width: 150px;
+    }
+     .full-nav .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    .full_nav .navbar-nav .active > .nav-link{
+        width: 33%
+    }
+
+
+    .navbar-light .navbar-brand {
+        padding-left: 15px;
+    }
+
+    /* navbar css end*/
+
+    .home_btn{
+        display: none
+    }
+    .banner_contant h3{
+        font-size: 26px;
+        padding-top: 10px;
+    }
+    .banner_contant::before{
+        width: 65%;
+        top: 33%
+    }
+    .banner_btn{
+        margin-top: 30px;
+    }
+    .banner_btn a{
+         margin: 6px 0 !important;
+    }
+    .banner_btn a p span{
+        font-size: 12px;
+    }
+     .banner_btn a i {
+        font-size: 35px;
+        margin-right: 6px;
+    }
+     .slick-dots {
+
+        position: absolute;
+        right: 43%;
+        bottom: 0%;
+    }
+
+    .slick-dots li {
+        display: inline-block;
+        margin: 0 5px 0 5px;
+    }
+
+    /* banner css end*/
+
+    .about_contant {
+        padding: 30px 0;
+    }
+
+    .about_contant p {
+        width: 100%;
+    }
+
+    .about_img {
+        padding: 20px 0;
+    }
+
+    /* about css end*/
+
+   
+
+      .nav-pills .nav-link p {
+        font-size: 14px;
+    }
+
+    .nav-pills .nav-link p span {
+        font-size: 10px;
+    }
+
+
+    .nav-pills .nav-link i {
+        font-size: 28px;
+
+
+    }
+    .oaf_img img{
+        width: 100%;
+        margin: auto;
+    }
+
+
+    /* our css end*/
+
+    .scr_contant {
+        padding-top: 50px;
+    }
+
+    .slick_sceen {
+        text-align: center
+    }
+
+    .slick-slide img {
+        display: inline-block;
+    }
+
+    /* our css end*/
+
+    .video_contant {
+        padding-bottom: 50px 0;
+    }
+
+    .watch_img {
+        padding: 100px 0
+    }
+
+    /* watch css end*/
+
+    #full_plan {
+        padding: 50px 0;
+    }
+
+    .plan_table {
+        margin-bottom: 40px
+    }
+
+    .plan_btn {
+        margin-bottom: 37px;
+    }
+
+    /* plan css end*/
+
+      .team_slick .slick-dots {
+        position: static;
+        text-align: center;
+    }
+
+    .team_slick .slick-dots li {
+        display: inline-block;
+        margin: 40px 5px 0 5px;
+    }
+
+    .team_slick .slick-dots li button {
+        border-color: black;
+    }
+    .team_slick .slick-track {
+    padding-bottom: 90px
+}
+    .team_member{
+        margin: 40px 0
+    }
+    .team_caption{
+        padding: 10px 0
+    }
+    .team_caption p{
+        width: 100%;
+        
+    }
+    .img_overlay ul li{
+        margin-top: 80px;
+    }
+
+    /* team css end*/
+    .slide-for-fbtxt::before{
+        top: 106%;
+    }
+    
+    /*end of feedback*/
+
+    .touch_form{
+        padding: 0 10px;
+    }
+
+
+    .futtar_text p {
+        font-size: 13px;
+    }
+}
+
+
+@media (min-width: 992px) and (max-width: 1199.98px) {
+    
+      .full_nav {
+        padding: 20px 0;
+    }
+    .full_nav .navbar-nav .nav-link{
+        padding: 10px 15px
+    }
+
+    
+   .full-nav .navbar-toggler {
+        background-color: #744fa0;
+
+    }
+    .navbar-toggler{
+        background-color: #fff;
+    }
+
+     .full-nav img {
+        width: 150px;
+    }
+     .full-nav .container {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+    
+
+
+    .navbar-light .navbar-brand {
+        padding-left: 15px;
+    }
+
+    /* navbar css end*/
+
+    .home_btn{
+        display: none
+    }
+    .banner_contant h3{
+        font-size: 26px;
+        padding-top: 10px;
+    }
+    
+    .banner_btn{
+        margin-top: 30px;
+    }
+    .banner_btn a{
+         margin: 6px 0 !important;
+    }
+    .banner_btn a p span{
+        font-size: 12px;
+    }
+     .banner_btn a i {
+        font-size: 35px;
+        margin-right: 6px;
+    }
+     .slick-dots {
+        position: absolute;
+        right: 43%;
+        bottom: 0%;
+    }
+
+    .slick-dots li {
+        display: inline-block;
+        margin: 0 5px 0 5px;
+    }
+
+    /* banner css end*/
+
+    .about_contant {
+        padding: 40px 0;
+    }
+
+    .about_contant p {
+        width: 100%;
+    }
+
+    .about_img {
+        padding: 20px 0;
+    }
+
+    /* about css end*/
+
+    .scr_contant {
+        padding-top: 50px;
+    }
+
+    .slick_sceen {
+        text-align: center
+    }
+
+    .slick-slide img {
+        display: inline-block;
+    }
+
+    /* our css end*/
+
+    .video_contant {
+        padding-bottom: 50px 0;
+    }
+
+    .watch_img {
+        padding: 150px 0
+    }
+
+    /* watch css end*/
+
+    #full_plan {
+        padding: 50px 0;
+    }
+
+    .plan_table {
+        margin-bottom: 40px
+    }
+
+    .plan_btn {
+        margin-bottom: 37px;
+    }
+
+    /* plan css end*/
+
+      .team_slick .slick-dots {
+        position: static;
+        text-align: center;
+    }
+
+    .team_slick .slick-dots li {
+        display: inline-block;
+        margin: 40px 5px 0 5px;
+    }
+
+    .team_slick .slick-dots li button {
+        border-color: black;
+    }
+    .team_slick .slick-track {
+    padding-bottom: 90px
+}
+    .team_member{
+        margin: 40px 0
+    }
+    .team_caption{
+        padding: 10px 0
+    }
+    .team_caption p{
+        width: 100%;
+        
+    }
+    .img_overlay ul li{
+        margin-top: 80px;
+    }
+
+    /* team css end*/
+    .slide-for-fbtxt::before{
+        top: 106%;
+    }
+    
+    /*end of feedback*/
+
+    .touch_form{
+        padding: 0 10px;
+    }
+
+
+    .futtar_text p {
+        font-size: 13px;
+    }
+}
+
+@media (min-width: 1200px) {
+   
+     .home_btn{
+        right: 8px;
+         top: 40%
+    }
+    
+    .slick-dots{
+        right: 8px
+    }
+}
